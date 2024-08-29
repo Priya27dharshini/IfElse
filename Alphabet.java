@@ -2,9 +2,9 @@ package IfElse;
 public class Alphabet {
 	char alpha;
 		public void check() {
-		
-		if(alpha.equals ('char')) {
-			System.put.println("This is alphabet");
+		int input = 1;
+		if(alpha.isLetter(input.charAt(0)))  {
+			System.out.println("This is alphabet");
 			
 		}
 		else {
